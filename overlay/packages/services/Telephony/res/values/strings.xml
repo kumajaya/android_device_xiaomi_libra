@@ -59,7 +59,7 @@
         <item>@string/network_gsm_wcdma</item>
         <item>@string/network_lte_only</item>
         <item>@string/network_gsm_only</item>
-        <item>@string/network_lte</item>
+        <item>@string/network_lte_cdma</item>
         <item>@string/network_cdma_evdo</item>
         <item>@string/network_1x</item>
     </string-array>
